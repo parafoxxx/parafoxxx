@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mukund%20Singhal&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20IIT%20Kanpur&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mukund%20Singhal&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Btech%20%C2%B7%20IIT%20Kanpur&descAlignY=58&descSize=16" />
 
 <img src="https://avatars.githubusercontent.com/u/169604105?v=4" width="110" style="border-radius:50%" />
 
